@@ -1,0 +1,53 @@
+.header{
+text-align: center;
+font-weight: bold;
+}
+
+#headerimg{
+    margin-left: auto;
+    display: block;
+}
+.centered{
+    text-align: center;
+}
+.number{
+    text-align: right;
+}
+
+th{
+    text-align: center;
+    font-weight: bold;
+}
+
+.datatable{
+    font-family: 'Roboto Condensed';
+    font-size: small;
+}
+
+.roboto{
+    font-family: 'Roboto Condensed';
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.txt_req_rev {
+    text-align: center;
+}
